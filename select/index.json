@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春が来てぼくら",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-02-25T12:41:19.278850Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春が来てぼくら",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_春が来てぼくら_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
